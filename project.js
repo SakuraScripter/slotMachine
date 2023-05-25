@@ -18,9 +18,7 @@ const deposit = () => {
   };
 
 
-
 //! 2-determine number of lines to bet on
-
 
 const getNumberOfLines = () => {
     while (true) {
@@ -36,7 +34,6 @@ const getNumberOfLines = () => {
   };
 
   
-
 //! 3-collect a bet amount
 
 const getBet = (balance, lines) => {
@@ -51,7 +48,6 @@ const getBet = (balance, lines) => {
     }
   }
 };
-
 
 
 //! 4-spin the slot
@@ -132,7 +128,6 @@ const transpose = (reels) => {
 
 //! 6-give the user money
 
-
 const getWinnings = (rows, bet, lines) => {
     let winnings = 0;
   
@@ -156,7 +151,6 @@ const getWinnings = (rows, bet, lines) => {
   };
   
   
-
 //! 7-play again
 
 const game = () => {
