@@ -2,27 +2,19 @@
 
 ### Overview
 
-This project is a fun and interactive Slot Machine game built using JavaScript and Node.js. It offers an exciting gaming experience with realistic slot machine mechanics.
-
-### Features
-
-- **Realistic Slot Machine Simulation**: Experience the thrill of a real slot machine with spinning reels and exciting animations.
-
-- **Customizable Gameplay**: Adjust the game settings, such as the number of reels, symbols, and winning combinations, to tailor the gameplay to your preferences.
-
-- **Interactive Interface**: The user-friendly interface makes it easy to spin the reels and track your winnings.
+This project is a fun and interactive Slot Machine game built using JavaScript and Node.js. The user-friendly interface makes it easy to spin the reels and track your winnings.
 
 ### Technologies Used
 
-- **JavaScript**: JavaScript powers the game's logic, animations, and interactivity.
+- **JavaScript**: JavaScript powers the game's logic, and interactivity.
 
 - **Node.js**: Node.js is used to create a server for hosting the game, making it accessible to players over the internet.
 
 ### Getting Started
 
-To enjoy this Slot Machine game, follow these steps:
+To get started with the project, follow these steps:
 
-1. **Download Node.js**: If you don't have Node.js installed, you can download it from [nodejs.org](https://nodejs.org/en/download/).
+1. Download and install Node.js from [here](https://nodejs.org/en/download/) if you haven't already. Make sure you have at least Node.js version 18.16.0 installed.
 
 2. **Clone the Repository**: Clone the project repository to your local machine using the following command:
 
@@ -30,4 +22,12 @@ To enjoy this Slot Machine game, follow these steps:
    git clone https://github.com/userName/repoName.git
    ```
 
-3. **Start the Game**: Run the Node.js server to launch the game. Open your web browser and navigate to the provided URL to start playing.
+3. Open your terminal or command prompt and navigate to the project directory.
+
+4. To launch the Slot Machine game, use the following command:
+
+```
+node project.js
+```
+
+5. You'll be prompted to enter a deposit amount to start playing. Follow the on-screen instructions to enjoy the game!
