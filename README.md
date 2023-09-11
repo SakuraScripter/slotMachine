@@ -25,9 +25,9 @@ To get started with the project, follow these steps:
 3. Open your terminal or command prompt and navigate to the project directory.
 
 4. To launch the Slot Machine game, use the following command:
-
-```
-node project.js
-```
+   
+   ```
+   node project.js
+   ```
 
 5. You'll be prompted to enter a deposit amount to start playing. Follow the on-screen instructions to enjoy the game!
