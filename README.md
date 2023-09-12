@@ -1,4 +1,4 @@
-## Slot Machine Game with JavaScript and Node.js
+## Slot Machine Game 
 
 ### Overview
 
