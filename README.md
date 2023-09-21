@@ -30,4 +30,4 @@ To get started with the project, follow these steps:
    node project.js
    ```
 
-5. You'll be prompted to enter a deposit amount to start playing. Follow the on-screen instructions to enjoy the game!
+5. You'll be prompted to enter a deposit amount to start playing, then follow the on-screen instructions to enjoy the game!
